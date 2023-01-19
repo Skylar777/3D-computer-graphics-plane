@@ -1,0 +1,1 @@
+This project was done in C++. After using certain functions to create perspective camera, specular highlights, shadows, reflections, and Perlin noise you can create an image of some reflective balls on a plane with light coming from above in order to show the correct shadow.
